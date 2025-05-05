@@ -1,0 +1,1 @@
+1. Extract the "creditcard.rar" file here(in this folder) then run the code

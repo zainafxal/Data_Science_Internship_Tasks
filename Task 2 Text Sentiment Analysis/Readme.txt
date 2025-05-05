@@ -1,0 +1,1 @@
+1. Extract the "acllmdb.rar" & "nltk_data.rar" files here(in this folder) then run the code
